@@ -67,12 +67,12 @@ class ViewController: UIViewController, UITextFieldDelegate {
                         
                         if self.toggleSwitch.on == true {
                             
-                            self.performSegueWithIdentifier("driverSegue", sender: self)
+                            self.performSegueWithIdentifier("loginDriver", sender: self)
                         }
                         
                         else {
                             
-                            self.performSegueWithIdentifier("riderSegue", sender: self)
+                            self.performSegueWithIdentifier("loginRider", sender: self)
                         }
                     }
                     

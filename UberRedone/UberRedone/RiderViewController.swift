@@ -188,8 +188,8 @@ class RiderViewController: UIViewController, CLLocationManagerDelegate, MKMapVie
             self.map.setRegion(region, animated: true)
             self.map.removeAnnotations(self.map.annotations)
             
-            var pinLocation = CLLocationCoordinate2D(latitude: location.latitude, longitude: location.longitude)
-            var objectAnnotation = MKPointAnnotation()
+            let pinLocation = CLLocationCoordinate2D(latitude: location.latitude, longitude: location.longitude)
+            let objectAnnotation = MKPointAnnotation()
             objectAnnotation.coordinate = pinLocation
             objectAnnotation.title = "Your location"
             self.map.addAnnotation(objectAnnotation)

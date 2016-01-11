@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "457FBEF3B8012EE0B5BF544AD20FD30A15487B6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "810FFBFE827690FF69CFD0F76C5B90F3A7E3112A" : 0,
+    "457FBEF3B8012EE0B5BF544AD20FD30A15487B6B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F5BD65DA-9D3E-4054-AA48-0D9513BFECFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "810FFBFE827690FF69CFD0F76C5B90F3A7E3112A" : "",
+    "457FBEF3B8012EE0B5BF544AD20FD30A15487B6B" : "UberClone\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UberRedone",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UberRedone\/UberRedone.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EthanHess\/UberClone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "457FBEF3B8012EE0B5BF544AD20FD30A15487B6B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EthanHess\/RecipeDiary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "810FFBFE827690FF69CFD0F76C5B90F3A7E3112A"
+    }
+  ]
+}
